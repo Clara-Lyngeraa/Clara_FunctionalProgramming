@@ -1,0 +1,13 @@
+/Users/claralyngeraa/Desktop/ITU/4.Semester/FuncProg/Assignment4.2/Dictionary/obj/Debug/net7.0/Dictionary.fsproj.AssemblyReference.cache
+/Users/claralyngeraa/Desktop/ITU/4.Semester/FuncProg/Assignment4.2/Dictionary/obj/Debug/net7.0/Dictionary.AssemblyInfoInputs.cache
+/Users/claralyngeraa/Desktop/ITU/4.Semester/FuncProg/Assignment4.2/Dictionary/obj/Debug/net7.0/Dictionary.AssemblyInfo.fs
+/Users/claralyngeraa/Desktop/ITU/4.Semester/FuncProg/Assignment4.2/Dictionary/obj/Debug/net7.0/Dictionary.fsproj.CoreCompileInputs.cache
+/Users/claralyngeraa/Desktop/ITU/4.Semester/FuncProg/Assignment4.2/Dictionary/bin/Debug/net7.0/Dictionary.deps.json
+/Users/claralyngeraa/Desktop/ITU/4.Semester/FuncProg/Assignment4.2/Dictionary/bin/Debug/net7.0/Dictionary.dll
+/Users/claralyngeraa/Desktop/ITU/4.Semester/FuncProg/Assignment4.2/Dictionary/bin/Debug/net7.0/Dictionary.pdb
+/Users/claralyngeraa/Desktop/ITU/4.Semester/FuncProg/Assignment4.2/Dictionary/bin/Debug/net7.0/Dictionary.xml
+/Users/claralyngeraa/Desktop/ITU/4.Semester/FuncProg/Assignment4.2/Dictionary/obj/Debug/net7.0/Dictionary.dll
+/Users/claralyngeraa/Desktop/ITU/4.Semester/FuncProg/Assignment4.2/Dictionary/obj/Debug/net7.0/refint/Dictionary.dll
+/Users/claralyngeraa/Desktop/ITU/4.Semester/FuncProg/Assignment4.2/Dictionary/obj/Debug/net7.0/Dictionary.xml
+/Users/claralyngeraa/Desktop/ITU/4.Semester/FuncProg/Assignment4.2/Dictionary/obj/Debug/net7.0/Dictionary.pdb
+/Users/claralyngeraa/Desktop/ITU/4.Semester/FuncProg/Assignment4.2/Dictionary/obj/Debug/net7.0/ref/Dictionary.dll
