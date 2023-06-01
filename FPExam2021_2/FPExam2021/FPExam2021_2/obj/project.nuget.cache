@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cqL8VBIQISjiYZe85DJMvGCIP1GHZT9j1nNXae/fYElU7Pu21/R1bF+fFssXcVcCW4xLmudtMxGKJJXL36jKug==",
+  "success": true,
+  "projectFilePath": "/Users/claralyngeraa/Desktop/ITU/4.Semester/FuncProg/FPExam2021_2/FPExam2021/FPExam2021_2/FPExam2021_2.fsproj",
+  "expectedPackageFiles": [
+    "/Users/claralyngeraa/.nuget/packages/fsharp.core/7.0.300/fsharp.core.7.0.300.nupkg.sha512"
+  ],
+  "logs": []
+}
