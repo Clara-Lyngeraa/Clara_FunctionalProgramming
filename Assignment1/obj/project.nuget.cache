@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TCLw7og60LocI7S890v1FnneMB8NTTkSj+8sY0E4/Gg6J68bMiSjZqCHxdsFv1iMuxxeUmJM9d2ZBZKeTXnnNw==",
+  "success": true,
+  "projectFilePath": "/Users/claralyngeraa/Desktop/ITU/4.Semester/FuncProg/Assignment1/Assignment1.fsproj",
+  "expectedPackageFiles": [
+    "/Users/claralyngeraa/.nuget/packages/fsharp.core/7.0.0/fsharp.core.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
