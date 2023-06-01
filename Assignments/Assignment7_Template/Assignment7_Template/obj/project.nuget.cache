@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "y8vtxtyfCSeF9LV08lVnr3o8vwloUG7D58gQDmuuL2HaBL0i+wpfZRswnlp+ml6Y4J2rG8D/IooTr8gapsCgwQ==",
+  "success": true,
+  "projectFilePath": "/Users/claralyngeraa/Downloads/Assignment7_Template/Assignment7_Template/Assignment7_Template.fsproj",
+  "expectedPackageFiles": [
+    "/Users/claralyngeraa/.nuget/packages/fparsec/1.1.1/fparsec.1.1.1.nupkg.sha512",
+    "/Users/claralyngeraa/.nuget/packages/fsharp.core/7.0.300/fsharp.core.7.0.300.nupkg.sha512"
+  ],
+  "logs": []
+}
