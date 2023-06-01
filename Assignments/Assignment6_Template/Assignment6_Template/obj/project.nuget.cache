@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "32IpdBBHyeU8vlBRroHnf8F1TAGtCv7REEaBxBZHoih/zqKZhswul+KbWcxWb6FYFxoIWzZmmBNB5SsWw/FrAA==",
+  "success": true,
+  "projectFilePath": "/Users/claralyngeraa/Downloads/Assignment6_Template/Assignment6_Template/Assignment6_Template.fsproj",
+  "expectedPackageFiles": [
+    "/Users/claralyngeraa/.nuget/packages/fsharp.core/7.0.300/fsharp.core.7.0.300.nupkg.sha512"
+  ],
+  "logs": []
+}
